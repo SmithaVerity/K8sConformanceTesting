@@ -68,7 +68,7 @@ SSH Key (KeyName) - The name of an existing Amazon EC2 key pair, to enable SSH a
 ``` 
     git clone https://github.com/SmithaVerity/K8sConformanceTesting
     cd K8sConformanceTesting/
-    sh deployTestCluster.sh
+    sh deployKubectl.sh
 ``` 
 **Configure the kubectl environment**
 ``` 
